@@ -1,0 +1,384 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Standard id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/RPGHelper.Actors/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Name id="ref-3">mat</Name>
+<Advantage>0</Advantage>
+<TurnStarted>true</TurnStarted>
+<Stats href="#ref-4"/>
+<Weps href="#ref-5"/>
+<Armour href="#ref-6"/>
+<Conditions href="#ref-7"/>
+</a1:Standard>
+<SOAP-ENC:Array id="ref-4" SOAP-ENC:arrayType="a2:IStat[37]" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/RPGHelper.Stats/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<item href="#ref-8"/>
+<item href="#ref-9"/>
+<item href="#ref-10"/>
+<item href="#ref-11"/>
+<item href="#ref-12"/>
+<item href="#ref-13"/>
+<item href="#ref-14"/>
+<item href="#ref-15"/>
+<item href="#ref-16"/>
+<item href="#ref-17"/>
+<item href="#ref-18"/>
+<item href="#ref-19"/>
+<item href="#ref-20"/>
+<item href="#ref-21"/>
+<item href="#ref-22"/>
+<item href="#ref-23"/>
+<item href="#ref-24"/>
+<item href="#ref-25"/>
+<item href="#ref-26"/>
+<item href="#ref-27"/>
+<item href="#ref-28"/>
+<item href="#ref-29"/>
+<item href="#ref-30"/>
+<item href="#ref-31"/>
+<item href="#ref-32"/>
+<item href="#ref-33"/>
+<item href="#ref-34"/>
+<item href="#ref-35"/>
+<item href="#ref-36"/>
+<item href="#ref-37"/>
+<item href="#ref-38"/>
+<item href="#ref-39"/>
+<item href="#ref-40"/>
+<item href="#ref-41"/>
+<item href="#ref-42"/>
+<item href="#ref-43"/>
+<item href="#ref-44"/>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-5" SOAP-ENC:arrayType="a3:IWep[1]" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/RPGHelper.Weps/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<item href="#ref-45"/>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-6" SOAP-ENC:arrayType="a4:IArmour[3]" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/RPGHelper.Armour/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<item href="#ref-46"/>
+<item href="#ref-47"/>
+<item href="#ref-48"/>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-7" SOAP-ENC:arrayType="a5:ICondition[2]" xmlns:a5="http://schemas.microsoft.com/clr/nsassem/RPGHelper.Conditions/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<item href="#ref-49"/>
+<item href="#ref-50"/>
+</SOAP-ENC:Array>
+<a2:Characteristic id="ref-8" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/RPGHelper.Stats/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Name id="ref-51">WS</Name>
+<original>0</original>
+<advanced>0</advanced>
+</a2:Characteristic>
+<a2:Characteristic id="ref-9" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/RPGHelper.Stats/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Name id="ref-52">BS</Name>
+<original>0</original>
+<advanced>0</advanced>
+</a2:Characteristic>
+<a2:Characteristic id="ref-10" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/RPGHelper.Stats/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Name id="ref-53">S</Name>
+<original>0</original>
+<advanced>0</advanced>
+</a2:Characteristic>
+<a2:Characteristic id="ref-11" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/RPGHelper.Stats/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Name id="ref-54">T</Name>
+<original>0</original>
+<advanced>0</advanced>
+</a2:Characteristic>
+<a2:Characteristic id="ref-12" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/RPGHelper.Stats/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Name id="ref-55">I</Name>
+<original>0</original>
+<advanced>0</advanced>
+</a2:Characteristic>
+<a2:Characteristic id="ref-13" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/RPGHelper.Stats/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Name id="ref-56">Ag</Name>
+<original>0</original>
+<advanced>0</advanced>
+</a2:Characteristic>
+<a2:Characteristic id="ref-14" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/RPGHelper.Stats/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Name id="ref-57">Dex</Name>
+<original>0</original>
+<advanced>0</advanced>
+</a2:Characteristic>
+<a2:Characteristic id="ref-15" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/RPGHelper.Stats/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Name id="ref-58">Int</Name>
+<original>0</original>
+<advanced>0</advanced>
+</a2:Characteristic>
+<a2:Characteristic id="ref-16" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/RPGHelper.Stats/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Name id="ref-59">WP</Name>
+<original>0</original>
+<advanced>0</advanced>
+</a2:Characteristic>
+<a2:Characteristic id="ref-17" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/RPGHelper.Stats/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Name id="ref-60">Fel</Name>
+<original>0</original>
+<advanced>0</advanced>
+</a2:Characteristic>
+<a6:AdvancedSkills id="ref-18" xmlns:a6="http://schemas.microsoft.com/clr/nsassem/RPGHelper/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Name id="ref-61">Art</Name>
+<basicSkill href="#ref-57"/>
+<advanced>0</advanced>
+<specialisation id="ref-62"></specialisation>
+</a6:AdvancedSkills>
+<a6:AdvancedSkills id="ref-19" xmlns:a6="http://schemas.microsoft.com/clr/nsassem/RPGHelper/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Name id="ref-63">Athletics</Name>
+<basicSkill href="#ref-56"/>
+<advanced>0</advanced>
+<specialisation href="#ref-62"/>
+</a6:AdvancedSkills>
+<a6:AdvancedSkills id="ref-20" xmlns:a6="http://schemas.microsoft.com/clr/nsassem/RPGHelper/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Name id="ref-64">Bribery</Name>
+<basicSkill href="#ref-60"/>
+<advanced>0</advanced>
+<specialisation href="#ref-62"/>
+</a6:AdvancedSkills>
+<a6:AdvancedSkills id="ref-21" xmlns:a6="http://schemas.microsoft.com/clr/nsassem/RPGHelper/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Name id="ref-65">Charm</Name>
+<basicSkill href="#ref-60"/>
+<advanced>0</advanced>
+<specialisation href="#ref-62"/>
+</a6:AdvancedSkills>
+<a6:AdvancedSkills id="ref-22" xmlns:a6="http://schemas.microsoft.com/clr/nsassem/RPGHelper/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Name id="ref-66">Charm Animal</Name>
+<basicSkill href="#ref-59"/>
+<advanced>0</advanced>
+<specialisation href="#ref-62"/>
+</a6:AdvancedSkills>
+<a6:AdvancedSkills id="ref-23" xmlns:a6="http://schemas.microsoft.com/clr/nsassem/RPGHelper/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Name id="ref-67">Climb</Name>
+<basicSkill href="#ref-53"/>
+<advanced>0</advanced>
+<specialisation href="#ref-62"/>
+</a6:AdvancedSkills>
+<a6:AdvancedSkills id="ref-24" xmlns:a6="http://schemas.microsoft.com/clr/nsassem/RPGHelper/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Name id="ref-68">Cool</Name>
+<basicSkill href="#ref-59"/>
+<advanced>0</advanced>
+<specialisation href="#ref-62"/>
+</a6:AdvancedSkills>
+<a6:AdvancedSkills id="ref-25" xmlns:a6="http://schemas.microsoft.com/clr/nsassem/RPGHelper/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Name id="ref-69">Consume Alchol</Name>
+<basicSkill href="#ref-54"/>
+<advanced>0</advanced>
+<specialisation href="#ref-62"/>
+</a6:AdvancedSkills>
+<a6:AdvancedSkills id="ref-26" xmlns:a6="http://schemas.microsoft.com/clr/nsassem/RPGHelper/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Name id="ref-70">Dodge</Name>
+<basicSkill href="#ref-56"/>
+<advanced>0</advanced>
+<specialisation href="#ref-62"/>
+</a6:AdvancedSkills>
+<a6:AdvancedSkills id="ref-27" xmlns:a6="http://schemas.microsoft.com/clr/nsassem/RPGHelper/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Name id="ref-71">Drive</Name>
+<basicSkill href="#ref-56"/>
+<advanced>0</advanced>
+<specialisation href="#ref-62"/>
+</a6:AdvancedSkills>
+<a6:AdvancedSkills id="ref-28" xmlns:a6="http://schemas.microsoft.com/clr/nsassem/RPGHelper/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Name id="ref-72">Endurance</Name>
+<basicSkill href="#ref-54"/>
+<advanced>0</advanced>
+<specialisation href="#ref-62"/>
+</a6:AdvancedSkills>
+<a6:AdvancedSkills id="ref-29" xmlns:a6="http://schemas.microsoft.com/clr/nsassem/RPGHelper/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Name id="ref-73">Entertain</Name>
+<basicSkill href="#ref-60"/>
+<advanced>0</advanced>
+<specialisation href="#ref-62"/>
+</a6:AdvancedSkills>
+<a6:AdvancedSkills id="ref-30" xmlns:a6="http://schemas.microsoft.com/clr/nsassem/RPGHelper/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Name id="ref-74">Gamble</Name>
+<basicSkill href="#ref-58"/>
+<advanced>0</advanced>
+<specialisation href="#ref-62"/>
+</a6:AdvancedSkills>
+<a6:AdvancedSkills id="ref-31" xmlns:a6="http://schemas.microsoft.com/clr/nsassem/RPGHelper/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Name id="ref-75">Gossip</Name>
+<basicSkill href="#ref-60"/>
+<advanced>0</advanced>
+<specialisation href="#ref-62"/>
+</a6:AdvancedSkills>
+<a6:AdvancedSkills id="ref-32" xmlns:a6="http://schemas.microsoft.com/clr/nsassem/RPGHelper/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Name id="ref-76">Haggle</Name>
+<basicSkill href="#ref-60"/>
+<advanced>0</advanced>
+<specialisation href="#ref-62"/>
+</a6:AdvancedSkills>
+<a6:AdvancedSkills id="ref-33" xmlns:a6="http://schemas.microsoft.com/clr/nsassem/RPGHelper/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Name id="ref-77">Intimidate</Name>
+<basicSkill href="#ref-53"/>
+<advanced>0</advanced>
+<specialisation href="#ref-62"/>
+</a6:AdvancedSkills>
+<a6:AdvancedSkills id="ref-34" xmlns:a6="http://schemas.microsoft.com/clr/nsassem/RPGHelper/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Name id="ref-78">Intution</Name>
+<basicSkill href="#ref-55"/>
+<advanced>0</advanced>
+<specialisation href="#ref-62"/>
+</a6:AdvancedSkills>
+<a6:AdvancedSkills id="ref-35" xmlns:a6="http://schemas.microsoft.com/clr/nsassem/RPGHelper/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Name id="ref-79">Leadership</Name>
+<basicSkill href="#ref-60"/>
+<advanced>0</advanced>
+<specialisation href="#ref-62"/>
+</a6:AdvancedSkills>
+<a6:AdvancedSkills id="ref-36" xmlns:a6="http://schemas.microsoft.com/clr/nsassem/RPGHelper/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Name id="ref-80">Melee (Basic)</Name>
+<basicSkill href="#ref-51"/>
+<advanced>0</advanced>
+<specialisation href="#ref-62"/>
+</a6:AdvancedSkills>
+<a6:AdvancedSkills id="ref-37" xmlns:a6="http://schemas.microsoft.com/clr/nsassem/RPGHelper/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Name id="ref-81">Melee</Name>
+<basicSkill href="#ref-51"/>
+<advanced>0</advanced>
+<specialisation href="#ref-62"/>
+</a6:AdvancedSkills>
+<a6:AdvancedSkills id="ref-38" xmlns:a6="http://schemas.microsoft.com/clr/nsassem/RPGHelper/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Name id="ref-82">Navigation</Name>
+<basicSkill href="#ref-55"/>
+<advanced>0</advanced>
+<specialisation href="#ref-62"/>
+</a6:AdvancedSkills>
+<a6:AdvancedSkills id="ref-39" xmlns:a6="http://schemas.microsoft.com/clr/nsassem/RPGHelper/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Name id="ref-83">Outdoor Survival</Name>
+<basicSkill href="#ref-58"/>
+<advanced>0</advanced>
+<specialisation href="#ref-62"/>
+</a6:AdvancedSkills>
+<a6:AdvancedSkills id="ref-40" xmlns:a6="http://schemas.microsoft.com/clr/nsassem/RPGHelper/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Name id="ref-84">Perception</Name>
+<basicSkill href="#ref-55"/>
+<advanced>0</advanced>
+<specialisation href="#ref-62"/>
+</a6:AdvancedSkills>
+<a6:AdvancedSkills id="ref-41" xmlns:a6="http://schemas.microsoft.com/clr/nsassem/RPGHelper/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Name id="ref-85">Ride</Name>
+<basicSkill href="#ref-56"/>
+<advanced>0</advanced>
+<specialisation href="#ref-62"/>
+</a6:AdvancedSkills>
+<a6:AdvancedSkills id="ref-42" xmlns:a6="http://schemas.microsoft.com/clr/nsassem/RPGHelper/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Name id="ref-86">Row</Name>
+<basicSkill href="#ref-53"/>
+<advanced>0</advanced>
+<specialisation href="#ref-62"/>
+</a6:AdvancedSkills>
+<a6:AdvancedSkills id="ref-43" xmlns:a6="http://schemas.microsoft.com/clr/nsassem/RPGHelper/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Name id="ref-87">Stealth</Name>
+<basicSkill href="#ref-56"/>
+<advanced>0</advanced>
+<specialisation href="#ref-62"/>
+</a6:AdvancedSkills>
+<a6:AdvancedSkills id="ref-44" xmlns:a6="http://schemas.microsoft.com/clr/nsassem/RPGHelper/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Name id="ref-88">Ranged (Basic)</Name>
+<basicSkill href="#ref-52"/>
+<advanced>0</advanced>
+<specialisation href="#ref-62"/>
+</a6:AdvancedSkills>
+<a3:StandardWep id="ref-45" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/RPGHelper.Weps/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<UsesStrengthBonus>true</UsesStrengthBonus>
+<Dammage>0</Dammage>
+<Name id="ref-89">Unarmed</Name>
+<Range>0</Range>
+<Group id="ref-90">Brawling</Group>
+<Qualty.Accurate>false</Qualty.Accurate>
+<Qualty.Precise>false</Qualty.Precise>
+<Qualty.Fast>false</Qualty.Fast>
+<Qualty.Wrap>false</Qualty.Wrap>
+<Qualty.Dangerous>false</Qualty.Dangerous>
+<Qualty.Imprecise>false</Qualty.Imprecise>
+<Qualty.Slow>false</Qualty.Slow>
+<Qualty.Tiring>false</Qualty.Tiring>
+<Qualty.Defensive>false</Qualty.Defensive>
+<Qualty.Blast>false</Qualty.Blast>
+<Qualty.Damaging>false</Qualty.Damaging>
+<Qualty.Hack>false</Qualty.Hack>
+<Qualty.Impact>false</Qualty.Impact>
+<Qualty.Impale>false</Qualty.Impale>
+<Qualty.Pummel>false</Qualty.Pummel>
+<Qualty.Penetrating>false</Qualty.Penetrating>
+<Qualty.Undamaging>true</Qualty.Undamaging>
+<Qualty.Sheild>0</Qualty.Sheild>
+</a3:StandardWep>
+<a4:Armour id="ref-46" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/RPGHelper.Armour/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<MaxArmoutPoints>2</MaxArmoutPoints>
+<Name id="ref-91">Mail Chausses</Name>
+<Metal>false</Metal>
+<ArmourLayer id="ref-92">Flexiable</ArmourLayer>
+<Subsections href="#ref-93"/>
+<Qualty.Parital>false</Qualty.Parital>
+<Qualty.Weakpoints>false</Qualty.Weakpoints>
+<Qualty.Inpentrable>false</Qualty.Inpentrable>
+</a4:Armour>
+<a4:Armour id="ref-47" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/RPGHelper.Armour/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<MaxArmoutPoints>1</MaxArmoutPoints>
+<Name id="ref-94">Leather Jack</Name>
+<Metal>false</Metal>
+<ArmourLayer id="ref-95">Leather</ArmourLayer>
+<Subsections href="#ref-96"/>
+<Qualty.Parital>false</Qualty.Parital>
+<Qualty.Weakpoints>false</Qualty.Weakpoints>
+<Qualty.Inpentrable>false</Qualty.Inpentrable>
+</a4:Armour>
+<a4:Armour id="ref-48" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/RPGHelper.Armour/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<MaxArmoutPoints>2</MaxArmoutPoints>
+<Name id="ref-97">Open Helm</Name>
+<Metal>false</Metal>
+<ArmourLayer id="ref-98">Hard</ArmourLayer>
+<Subsections href="#ref-99"/>
+<Qualty.Parital>true</Qualty.Parital>
+<Qualty.Weakpoints>false</Qualty.Weakpoints>
+<Qualty.Inpentrable>false</Qualty.Inpentrable>
+</a4:Armour>
+<a7:Wound id="ref-49" xmlns:a7="http://schemas.microsoft.com/clr/nsassem/RPGHelper.Conditions.MedicalConditons/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<description id="ref-100">wounded: LeftArm</description>
+<Number>12</Number>
+<Modifiers href="#ref-101"/>
+</a7:Wound>
+<a8:CriticalCondition id="ref-50" xmlns:a8="http://schemas.microsoft.com/clr/nsassem/RPGHelper.Conditions.CriticalCondition/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Name id="ref-102">Clean Break</Name>
+<ArmourPostion id="ref-103">LeftArm, RightArm</ArmourPostion>
+<Wounds>3</Wounds>
+<description id="ref-104">Clean Break: An audible crack resounds as the blow strikes your arm. Drop whatever was held in the associated hand and gain a Broken Bone (Minor) injury. Pass a Difficult (–10) Endurance Test or gain a Stunned Condition.</description>
+<Number>1</Number>
+<Modifiers href="#ref-105"/>
+</a8:CriticalCondition>
+<SOAP-ENC:Array id="ref-93" SOAP-ENC:arrayType="a4:IArmourSubsection[2]" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/RPGHelper.Armour/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<item href="#ref-106"/>
+<item href="#ref-107"/>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-96" SOAP-ENC:arrayType="a4:IArmourSubsection[3]" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/RPGHelper.Armour/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<item href="#ref-108"/>
+<item href="#ref-109"/>
+<item href="#ref-110"/>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-99" SOAP-ENC:arrayType="a4:IArmourSubsection[1]" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/RPGHelper.Armour/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<item href="#ref-111"/>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-101" SOAP-ENC:arrayType="a2:Modifier[0]" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/RPGHelper.Stats/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-105" SOAP-ENC:arrayType="a2:Modifier[0]" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/RPGHelper.Stats/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+</SOAP-ENC:Array>
+<a4:ArmourSubsection id="ref-106" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/RPGHelper.Armour/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<ArmourPoints>2</ArmourPoints>
+<Postion id="ref-112">RightLeg</Postion>
+</a4:ArmourSubsection>
+<a4:ArmourSubsection id="ref-107" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/RPGHelper.Armour/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<ArmourPoints>2</ArmourPoints>
+<Postion id="ref-113">LeftLeg</Postion>
+</a4:ArmourSubsection>
+<a4:ArmourSubsection id="ref-108" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/RPGHelper.Armour/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<ArmourPoints>1</ArmourPoints>
+<Postion id="ref-114">LeftArm</Postion>
+</a4:ArmourSubsection>
+<a4:ArmourSubsection id="ref-109" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/RPGHelper.Armour/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<ArmourPoints>1</ArmourPoints>
+<Postion id="ref-115">RightArm</Postion>
+</a4:ArmourSubsection>
+<a4:ArmourSubsection id="ref-110" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/RPGHelper.Armour/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<ArmourPoints>1</ArmourPoints>
+<Postion id="ref-116">Body</Postion>
+</a4:ArmourSubsection>
+<a4:ArmourSubsection id="ref-111" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/RPGHelper.Armour/RPGHelper%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<ArmourPoints>2</ArmourPoints>
+<Postion id="ref-117">Head</Postion>
+</a4:ArmourSubsection>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
